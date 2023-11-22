@@ -1,0 +1,19 @@
+**Movable Circle GUI**
+
+**Author:** Jeremiah E. Ochepo
+
+**Last Edited:** 2/15/2020 (7 PM)
+
+**Description:**
+This Python script creates a simple graphical user interface (GUI) using the `graphics` module. It allows users to click on a point, and a movable circle is drawn on the window. The circle can be dragged to a new location by clicking on different points within the window.
+
+**Instructions:**
+1. Run the script.
+2. Click on the GUI window to draw a movable circle.
+3. Click on different points to move the circle around.
+4. Repeat the process as desired.
+5. Close the window when finished.
+
+**Note:** Ensure that the `graphics` module is installed in your Python environment.
+
+**Last Updated Date:** 2/15/2020 (7 PM)
